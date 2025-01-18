@@ -1,0 +1,15 @@
+{
+  "name": "cn.com.zerogame.unitypackages.entities.gameobjects",
+  "displayName": "ZGUP Entities GameObjects",
+  "version": "2.11.65",
+  "unity": "2022.2",
+  "unityRelease": "0f1",
+  "dependencies": {
+  },
+  "description": "Zero Game Unity Package Entities GameObjects",
+  "keywords": [
+    "zg",
+    "entities", 
+	"gameObjects"
+  ]
+}
